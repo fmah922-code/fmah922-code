@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @fmah922-code
-- 👀 I’m interested in Data Analytics, Data Engineering, and building with Analytics Platforms (especially using tools like DBT) 
-- 🌱 I’m currently focused on creating new analytics and engineering projects, with a special interest in building ETL pipelines and working with cloud data platforms.
-- 📫 Feel free to reach out to me at faiselmahmud6@gmail.com.
-- Pronouns: He / Him
+# About Me
+
+I am **@fmah922-code**, a professional with a strong focus on **Data Analytics**, **Data Engineering**, and the development of scalable solutions on **Analytics Platforms** (with particular expertise in tools such as **DBT**).
+
+Currently, I am dedicated to advancing my technical skills through the design and implementation of new analytics and engineering projects, specializing in **ETL pipeline development** and **cloud-based data infrastructure**.
+
+For professional inquiries, I can be reached at **faiselmahmud6@gmail.com**.
+
+Pronouns: **He/Him**
+
   
 <!---
 fmah922-code/fmah922-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
